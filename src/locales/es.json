@@ -5,5 +5,9 @@
     "registerText": "No tengo cuenta, crear una GRATIS",
     "textBtnContinue": "Continuar"
   },
+  "form": {
+    "dni": "Cédula de identidad",
+    "password": "Contraseña"
+  },
   "footer": "Examen by: <span class='font-bold'>Todo.legal</span>"
 }
