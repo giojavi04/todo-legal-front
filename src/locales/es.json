@@ -1,3 +1,9 @@
 {
+  "home": {
+    "title": "Bienvenido",
+    "description": "Por favor ingresa a tu cuenta ingresando tu número de cédula y contraseña. Si no tienes una cuenta en TodoLegal, puedes crear una Gratis.",
+    "registerText": "No tengo cuenta, crear una GRATIS",
+    "textBtnContinue": "Continuar"
+  },
   "footer": "Examen by: <span class='font-bold'>Todo.legal</span>"
 }
