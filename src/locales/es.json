@@ -5,6 +5,13 @@
     "registerText": "No tengo cuenta, crear una GRATIS",
     "textBtnContinue": "Continuar"
   },
+  "user": {
+    "title": "Validación Exitosa!",
+    "subTitle": "Datos verificados:",
+    "fullName": "Nombres y apellidos",
+    "dni": "Cédula de identidad",
+    "textBtnFinish": "Finalizar"
+  },
   "form": {
     "dni": "Cédula de identidad",
     "password": "Contraseña"

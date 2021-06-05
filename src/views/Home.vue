@@ -82,6 +82,7 @@ export default {
         this.notification.message = data.message
       } else {
         localStorage.setItem('user', JSON.stringify(data.data))
+        this.$router.push('/user')
       }
     },
     toggleNotification: function () {
