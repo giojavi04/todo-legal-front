@@ -3,7 +3,7 @@
     class="w-full flex flex-wrap items-center justify-center px-2 py-4 text-tlPrimary"
   >
     <a href="https://todo.legal/" target="_blank">
-      <p>Examen by: <span class="font-bold">Todo.legal</span></p>
+      <p v-html="$t('footer')"></p>
     </a>
   </footer>
 </template>
